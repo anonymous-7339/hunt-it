@@ -55,7 +55,7 @@ It can currently extract:
 * Kali Linux
 
 
-> infoget is a tool for **Pentesters** and it's designed for **Linux** based Operating Systems, other platforms like **Windows** and **Termux** are **NOT** supported.
+> Hunt-it is a tool for **Pentesters** and it's designed for **Linux** based Operating Systems, other platforms like **Windows** and **Termux** are **NOT** supported.
 
 ## Installation
 
